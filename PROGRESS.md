@@ -340,3 +340,37 @@
 
 **下一步**：本篇质检轮。质检清单沿用四项——否定性断言穷尽复核、量化表述回原文数、段号可回看、「」只给原文。
 
+### 2026-10-04 · 发布到 GitHub Pages
+
+**站点**：https://huuduch517-dev.github.io/maoxuan-jingdu/
+**仓库**：https://github.com/huuduch517-dev/maoxuan-jingdu （公开）
+
+项目所有者选择「公开仓库，全站照发」。原文、题解、全部篇末注释照常收录。
+
+**发布前必须改掉的一件事（否则导师模式在 Pages 上全死）**：批注与「先写」原先直接调
+`claude.use('db')`，那是 Artifact 运行时专有的 API，GitHub Pages 上不存在。已加一层
+`Store` 抽象——有 db 就走服务端，没有就退回 localStorage，接口一致。同时在「我的感悟」
+底部加了导出／导入（localStorage 是按浏览器隔离的，换设备看不到）。
+
+**生成器加了 pages 模式**：`python site/render.py pages` → `site/pages/`，首页带完整文档头。
+两种目标对首页的要求正好相反——Artifact 会把 index.html 塞进自己的骨架（并注入 charset），
+所以那边的首页必须是裸片段；GitHub Pages 原样提供文件，所以必须自带文档头。
+**以后新增页面要同时想清楚它在两种模式下各是什么形态。**
+
+**踩到的环境坑**：本机 git 全局配了 `http.proxy=127.0.0.1:7897`，代理没在跑时 git 推送
+直接失败，而 `gh` 不走这个代理（所以建仓库成功、推送失败，看起来很像权限问题）。
+解法是每条 git 命令临时带 `-c http.proxy= -c https.proxy=` 绕开，不动全局配置。
+已写进 `site/deploy.py`，以后一条命令发布。
+
+**仓库内容**：全项目入库，但 `sources/毛选1-4卷.pdf` 不入（7.5MB，且属他人编注成果）；
+`sources/_清单.md` 入库（它是考证依据不是原文）。`site/out/`（Artifact 产物）不入库。
+
+**线上验收**：375px 无横向溢出；CSS／JS 正常加载；localStorage 回退生效（重载后
+「先写」的答案仍在）；形状设问、三个问题、六个先写框、原文四节全部就位。
+
+**两个入口并存**：
+- Artifact 版（claude.ai 链接）—— 批注存服务端，换设备都在
+- GitHub Pages 版 —— 手机上读，批注存本机浏览器
+
+**下一步**：《论反对日本帝国主义的策略》质检轮。
+

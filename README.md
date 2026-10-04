@@ -79,6 +79,12 @@ python site/render.py pages   # 构建到 site/pages/
 python site/serve.py          # http://localhost:8766
 ```
 
+发布到 GitHub Pages：
+
+```bash
+python site/deploy.py "更新说明"
+```
+
 加一篇新文章：跑完三轮产出 `docs/篇目/<slug>.md`，在 `site/build.py` 的 `ART` 里加一行，重跑 `render.py`。原文、存疑索引、金句库、形状库、进度数字全部自动更新。
 
 ## 批注
