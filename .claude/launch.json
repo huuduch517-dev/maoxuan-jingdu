@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mx-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "site/serve.py",
+        "8766"
+      ],
+      "port": 8766
+    }
+  ]
+}

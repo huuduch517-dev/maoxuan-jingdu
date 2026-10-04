@@ -1,0 +1,14 @@
+# 原文底本不入库：7.5MB，且属于他人编注成果，自备即可
+sources/
+
+# Artifact 构建产物（首页是裸片段，只给 claude.ai 用）
+site/out/
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# 但材料核查清单要入库（它是考证的依据，不是原文）
+!sources/
+!sources/_清单.md
+sources/*.pdf

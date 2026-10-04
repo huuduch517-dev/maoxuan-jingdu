@@ -1,0 +1,375 @@
+# 篇目索引 — 由 sources/毛选1-4卷.pdf 抽取
+# date 一律取自原文标题下的标注；未标注者留空。
+# pages 为 PDF 物理页码（非书内页码），含篇末注释。
+# wordcount 为该页码区间内的汉字数，含注释与页眉，故略大于正文实际字数。
+
+
+- slug: 中国社会各阶级的分析
+  title: 中国社会各阶级的分析
+  volume: 1
+  date: "1925-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [17, 25]
+  wordcount: 5895
+  in_shortlist: true
+
+- slug: 湖南农民运动考察报告
+  title: 湖南农民运动考察报告
+  volume: 1
+  date: "1927-03"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [26, 60]
+  wordcount: 17995
+  in_shortlist: true
+
+- slug: 中国的红色政权为什么能够存在
+  title: 中国的红色政权为什么能够存在
+  volume: 1
+  date: "1928-10"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [61, 70]
+  wordcount: 5976
+  in_shortlist: true
+
+- slug: 井冈山的斗争
+  title: 井冈山的斗争
+  volume: 1
+  date: "1928-11"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [71, 98]
+  wordcount: 16101
+  in_shortlist: true
+
+- slug: 关于纠正党内的错误思想
+  title: 关于纠正党内的错误思想
+  volume: 1
+  date: "1929-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [99, 110]
+  wordcount: 5818
+  in_shortlist: true
+
+- slug: 星星之火可以燎原
+  title: 星星之火可以燎原
+  volume: 1
+  date: "1930-01"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [111, 122]
+  wordcount: 7296
+  in_shortlist: true
+
+- slug: 反对本本主义
+  title: 反对本本主义
+  volume: 1
+  date: "1930-05"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [123, 132]
+  wordcount: 4453
+  in_shortlist: true
+
+- slug: 必须注意经济工作
+  title: 必须注意经济工作
+  volume: 1
+  date: "1933-08"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [133, 140]
+  wordcount: 4715
+  in_shortlist: true
+
+- slug: 关心群众生活注意工作方法
+  title: 关心群众生活注意工作方法
+  volume: 1
+  date: "1934-01"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [150, 155]
+  wordcount: 3288
+  in_shortlist: true
+
+- slug: 论反对日本帝国主义的策略
+  title: 论反对日本帝国主义的策略
+  volume: 1
+  date: "1935-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [156, 183]
+  wordcount: 18750
+  in_shortlist: true
+
+- slug: 中国革命战争的战略问题
+  title: 中国革命战争的战略问题
+  volume: 1
+  date: "1936-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [184, 258]
+  wordcount: 43149
+  in_shortlist: true
+
+- slug: 实践论
+  title: 实践论
+  volume: 1
+  date: "1937-07"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [296, 312]
+  wordcount: 9856
+  in_shortlist: true
+
+- slug: 矛盾论
+  title: 矛盾论
+  volume: 1
+  date: "1937-08"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [313, 357]
+  wordcount: 25002
+  in_shortlist: true
+
+- slug: 抗日游击战争的战略问题
+  title: 抗日游击战争的战略问题
+  volume: 2
+  date: "1938-05"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [432, 466]
+  wordcount: 19195
+  in_shortlist: true
+
+- slug: 论持久战
+  title: 论持久战
+  volume: 2
+  date: "1938-05"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [467, 546]
+  wordcount: 46310
+  in_shortlist: true
+
+- slug: 中国共产党在民族战争中的地位
+  title: 中国共产党在民族战争中的地位
+  volume: 2
+  date: "1938-10"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [547, 564]
+  wordcount: 9553
+  in_shortlist: true
+
+- slug: 共产党人发刊词
+  title: 共产党人发刊词
+  volume: 2
+  date: "1939-10"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [630, 642]
+  wordcount: 7752
+  in_shortlist: true
+
+- slug: 中国革命和中国共产党
+  title: 中国革命和中国共产党
+  volume: 2
+  date: "1939-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [649, 684]
+  wordcount: 19813
+  in_shortlist: true
+
+- slug: 新民主主义论
+  title: 新民主主义论
+  volume: 2
+  date: "1940-01"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [690, 739]
+  wordcount: 28361
+  in_shortlist: true
+
+- slug: 目前抗日统一战线中的策略问题
+  title: 目前抗日统一战线中的策略问题
+  volume: 2
+  date: "1940-03"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [772, 780]
+  wordcount: 5104
+  in_shortlist: true
+
+- slug: 改造我们的学习
+  title: 改造我们的学习
+  volume: 3
+  date: "1941-05"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [832, 840]
+  wordcount: 4733
+  in_shortlist: true
+
+- slug: 整顿党的作风
+  title: 整顿党的作风
+  volume: 3
+  date: "1942-02"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [848, 866]
+  wordcount: 10500
+  in_shortlist: true
+
+- slug: 反对党八股
+  title: 反对党八股
+  volume: 3
+  date: "1942-02"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [867, 883]
+  wordcount: 9643
+  in_shortlist: true
+
+- slug: 在延安文艺座谈会上的讲话
+  title: 在延安文艺座谈会上的讲话
+  volume: 3
+  date: "1942-05"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [884, 916]
+  wordcount: 18645
+  in_shortlist: true
+
+- slug: 关于领导方法的若干问题
+  title: 关于领导方法的若干问题
+  volume: 3
+  date: "1943-06"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [934, 939]
+  wordcount: 3190
+  in_shortlist: true
+
+- slug: 学习和时局
+  title: 学习和时局
+  volume: 3
+  date: "1944-04"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [974, 1040]
+  wordcount: 37394
+  in_shortlist: true
+
+- slug: 为人民服务
+  title: 为人民服务
+  volume: 3
+  date: "1944-09"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1041, 1043]
+  wordcount: 988
+  in_shortlist: true
+
+- slug: 论联合政府
+  title: 论联合政府
+  volume: 3
+  date: "1945-04"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1066, 1137]
+  wordcount: 39564
+  in_shortlist: true
+
+- slug: 愚公移山
+  title: 愚公移山
+  volume: 3
+  date: "1945-06"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1138, 1141]
+  wordcount: 2091
+  in_shortlist: true
+
+- slug: 抗日战争胜利后的时局和我们的方针
+  title: 抗日战争胜利后的时局和我们的方针
+  volume: 4
+  date: "1945-08"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1171, 1184]
+  wordcount: 8363
+  in_shortlist: true
+
+- slug: 关于重庆谈判
+  title: 关于重庆谈判
+  volume: 4
+  date: "1945-10"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1204, 1214]
+  wordcount: 6753
+  in_shortlist: true
+
+- slug: 和美国记者安娜·路易斯·斯特朗的谈话
+  title: 和美国记者安娜·路易斯·斯特朗的谈话
+  volume: 4
+  date: "1946-08"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1239, 1244]
+  wordcount: 3477
+  in_shortlist: true
+
+- slug: 目前形势和我们的任务
+  title: 目前形势和我们的任务
+  volume: 4
+  date: "1947-12"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1291, 1311]
+  wordcount: 12444
+  in_shortlist: true
+
+- slug: 关于健全党委制
+  title: 关于健全党委制
+  volume: 4
+  date: "1948-09"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1388, 1389]
+  wordcount: 807
+  in_shortlist: true
+
+- slug: 党委会的工作方法
+  title: 党委会的工作方法
+  volume: 4
+  date: "1949-03"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1488, 1492]
+  wordcount: 2629
+  in_shortlist: true
+
+- slug: 在中国共产党第七届中央委员会第二次全体会议上的报告
+  title: 在中国共产党第七届中央委员会第二次全体会议上的报告
+  volume: 4
+  date: "1949-03"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1472, 1487]
+  wordcount: 9008
+  in_shortlist: true
+
+- slug: 论人民民主专政
+  title: 论人民民主专政
+  volume: 4
+  date: "1949-06"
+  date_source: 原文标注
+  path: sources/毛选1-4卷.pdf
+  pages: [1516, 1530]
+  wordcount: 8433
+  in_shortlist: true
